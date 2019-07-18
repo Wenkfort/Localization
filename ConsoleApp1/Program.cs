@@ -6,6 +6,7 @@ namespace ConsoleApp1
 {
     class Program
     {
+	// Hello world
         static List<String> world = new List<string> {"green", "red", "red", "green", "green" };
         static double pHit = 0.6;
         static double pMiss = 0.2;
